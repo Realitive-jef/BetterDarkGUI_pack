@@ -3,4 +3,10 @@
 #特定の種類のファイルは"*"
 #"!"を使うと、上記で対象外になっていた場合でもgitの管理対象する
 
+#Photoshopのファイル
 *.psd
+
+#未使用のファイル
+mojangstudios_ja.png
+edition__.png
+minecraft__.png
