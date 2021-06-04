@@ -1,4 +1,4 @@
-# SimplyDarkGUI_pack
+# BetterDarkGUI_pack
 ![](https://img.shields.io/badge/Minecraft-Resourcepack-blue)
 ![](https://img.shields.io/badge/Version-1.16.2%2B-brightgreen)
 ![](https://img.shields.io/badge/Progress-10%25-yellow)
