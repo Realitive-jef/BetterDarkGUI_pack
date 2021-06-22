@@ -5,7 +5,7 @@
 
 ![](https://img.shields.io/badge/Minecraft-Resourcepack-blue)
 ![](https://img.shields.io/badge/Recommended-Optifine-yellow)
-![](https://img.shields.io/badge/Version-1.16.2%2B-brightgreen)
+![](https://img.shields.io/badge/Version-1.17+-brightgreen)
 ![](https://img.shields.io/badge/Progress-95%25-brightgreen)
 
 ## 概要
@@ -18,10 +18,13 @@
  
   Change Font for better readability.
 
-- Optifineの使用を推奨します（ローディング時のカラーに反映される）
+- Optifineの使用を推奨します。（ローディング時のカラーに反映される）
   
-  Recommended use Optifine.
+  Recommended use [Optifine](https://optifine.net/downloads).
 
+- フォントの外見上、GUIの大きさは3を推奨します。
+
+  Recommended `GUI scale: 3`
 
 ## Utility UI
 
