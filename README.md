@@ -19,6 +19,7 @@
   Change Font for better readability.
 
 - Optifineの使用を推奨します（ローディング時のカラーに反映される）
+  
   Recommended use Optifine.
 
 
