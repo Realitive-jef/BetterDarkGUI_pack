@@ -39,8 +39,7 @@
 ![2021-06-22_22 30 57](https://user-images.githubusercontent.com/82772868/122933562-b71d0c00-d3a9-11eb-9af5-c8334ea16eff.png)
 
 ## ファイル構造 (自分でカスタムする人向け)
-![structure](https://user-images.githubusercontent.com/82772868/122954685-9dd08b80-d3ba-11eb-91a8-843bec6c31b0.png)
-
+![structure](https://user-images.githubusercontent.com/82772868/122955654-3f57dd00-d3bb-11eb-89b4-f6c0901ac429.png)
 
 
 <!--
@@ -69,9 +68,9 @@ BetterdarkGUI
 │   │           └── xxx.png (エフェクト関連のテクスチャ)
 │   ├── .mcassetroot
 │   └── .gitkeep
-├──.gitignore
+├── .gitignore
 ├── LICENCE
-├── pack.png
-├── pack.mcmeta
+├── pack.png (Resourcepackのアイコン画像)
+├── pack.mcmeta (Description等)
 └── README.md
 -->
