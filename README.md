@@ -38,3 +38,40 @@
 
 ![2021-06-22_22 30 57](https://user-images.githubusercontent.com/82772868/122933562-b71d0c00-d3a9-11eb-9af5-c8334ea16eff.png)
 
+## ファイル構造 (自分でカスタムする人向け)
+![structure](https://user-images.githubusercontent.com/82772868/122954685-9dd08b80-d3ba-11eb-91a8-843bec6c31b0.png)
+
+
+
+<!--
+BetterdarkGUI
+├── .git
+├── .vscode
+├── asset
+│   ├── minecraft
+│   │   ├── font
+│   │   │   ├── custom.ttf (フォントファイル)
+│   │   │   └── default.json (フォントの細かな設定)
+│   │   ├── optifine
+│   │   │   └── color.properties (ローディング時の背景カラーやプログレスバーの設定)
+│   │   └── textures
+│   │       ├── gui
+│   │       │   ├── title
+│   │       │   │   ├── mojangstudios.png (ローディング時のロゴ)
+│   │       │   │   └── background
+│   │       │   │       └── panorama_x.png (タイトル画面時の背景xには0~5の数字が入る)   
+│   │       │   ├── container
+│   │       │   │   ├── xxx.png (inventory.pngなどの主なUtility系のUIテクスチャ)
+│   │       │   │   └── creative_inventory (クリエイティブ時のUIテクスチャ)
+│   │       │   ├── options_background.png (オプション時の背景タイル画像)
+│   │       │   └── xxx.png (ホットバーなどのUIのテクスチャ)
+│   │       └── mob_effect
+│   │           └── xxx.png (エフェクト関連のテクスチャ)
+│   ├── .mcassetroot
+│   └── .gitkeep
+├──.gitignore
+├── LICENCE
+├── pack.png
+├── pack.mcmeta
+└── README.md
+-->
