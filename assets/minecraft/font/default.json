@@ -2,9 +2,9 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "foo.ttf",
+            "file": "custom.ttf",
             "shift": [ 0.0, 1.2],
-            "size": 9,
+            "size": 8,
             "oversample": 30.0
         },
         {
