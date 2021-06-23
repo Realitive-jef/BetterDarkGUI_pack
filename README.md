@@ -1,13 +1,14 @@
 # BetterDarkGUI_pack
-![banner2](https://user-images.githubusercontent.com/82772868/122908256-e3775f00-d38e-11eb-8f63-920eacfffa2a.png)
 
+![darkgui_banner](https://user-images.githubusercontent.com/82772868/123033829-58947400-d423-11eb-9451-7532fc4e821a.png)
 
 
 ![](https://img.shields.io/badge/Minecraft-Resourcepack-blue)
 ![](https://img.shields.io/badge/Recommended-Optifine-yellow)
 ![](https://img.shields.io/badge/Version-1.17+-brightgreen)
 ![](https://img.shields.io/badge/Progress-95%25-brightgreen)
-
+<br>
+<br>
 ## 概要
 - このリソースパックは、MinecraftのGUIをダークテーマに変更します。
 
@@ -28,12 +29,14 @@
 
 ## Utility UI
 
-![darkgui_hotbar](https://user-images.githubusercontent.com/82772868/122937688-22b4a880-d3ad-11eb-9c3c-09ba0010d750.jpg)
+![darkgui_hotbar](https://user-images.githubusercontent.com/82772868/123035765-ddcd5800-d426-11eb-9e68-2797ac3c6ac3.jpg)
 
 ![darkgui_preview2](https://user-images.githubusercontent.com/82772868/122931915-432e3400-d3a8-11eb-9440-88550749b28d.jpg)
 
 
 ## Options UI
+
+Revamp `pixel M Plus 12`font
 
 ![darkgui_preview](https://user-images.githubusercontent.com/82772868/122922173-4f14f880-d39e-11eb-8c65-676fda47f13a.jpg)
 
