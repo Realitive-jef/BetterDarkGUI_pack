@@ -1,7 +1,5 @@
 # BetterDarkGUI_pack
 
-![darkgui_banner](https://user-images.githubusercontent.com/82772868/123033829-58947400-d423-11eb-9451-7532fc4e821a.png)
-
 
 ![](https://img.shields.io/badge/Minecraft-Resourcepack-blue)
 ![](https://img.shields.io/badge/Recommended-Optifine-yellow)
