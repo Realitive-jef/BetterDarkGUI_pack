@@ -1,5 +1,6 @@
 # BetterDarkGUI_pack
 
+![pack_banner](https://user-images.githubusercontent.com/82772868/208215406-c69168df-8a80-4d7f-ad82-1a853db2e3c4.png)
 
 ![](https://img.shields.io/badge/Minecraft-Resourcepack-blue)
 ![](https://img.shields.io/badge/Recommended-Optifine-yellow)
@@ -37,10 +38,6 @@
 Revamp `pixel M Plus 12`font
 
 ![darkgui_preview](https://user-images.githubusercontent.com/82772868/122922173-4f14f880-d39e-11eb-8c65-676fda47f13a.jpg)
-
-## Loading Screen(Required use optifine)
-
-![2021-06-22_22 30 57](https://user-images.githubusercontent.com/82772868/122933562-b71d0c00-d3a9-11eb-9af5-c8334ea16eff.png)
 
 ## ファイル構造 (自分でカスタムする人向け)
 ![structure](https://user-images.githubusercontent.com/82772868/122955654-3f57dd00-d3bb-11eb-89b4-f6c0901ac429.png)
